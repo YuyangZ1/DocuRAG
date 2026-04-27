@@ -1,4 +1,4 @@
-# AgentAI – AI Document Assistant
+# DocuRAG: A Scalable RAG-Based Document Retrieval and Ranking System
 
 AgentAI is a full-stack AI application that allows users to upload PDF documents and ask questions about their content.  
 The system retrieves relevant document context and uses a large language model to generate answers.
